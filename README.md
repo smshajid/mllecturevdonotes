@@ -1,7 +1,7 @@
 # mllecturevdonotes
 **lec 05**
 ## Topics
-  *mean absolute error
+  * mean absolute error
   
 
 
