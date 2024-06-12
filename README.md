@@ -10,7 +10,9 @@
 ## Topics
   * Zero R classifier - mejority count
   * Zero R classifier
-**lec 06**
+    
+**lec 07**
 ## Topics
   * confusion matrix
-        * precision
+  * precision
+  * recall
