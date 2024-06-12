@@ -12,4 +12,5 @@
   * Zero R classifier
 **lec 06**
 ## Topics
-  *
+  * confusion matrix
+        * precision
