@@ -11,8 +11,19 @@
   * Zero R classifier - mejority count
   * Zero R classifier
     
-**lec 07**
+**lec 07+08**
 ## Topics
   * confusion matrix
+  * accuracy
   * precision
   * recall
+  * F1 score
+  * ROC curve
+  * AUC score
+
+**lec 09**
+## Topics
+* Train | VAlidation | Test
+* Biase
+* VAriance
+* Overfitting | Underfiting
