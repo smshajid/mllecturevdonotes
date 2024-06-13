@@ -23,7 +23,10 @@
 
 **lec 09**
 ## Topics
-* Train | VAlidation | Test
+* Train | Validation | Test
 * Biase
 * VAriance
-* Overfitting | Underfiting
+* Overfitting | Underfiting |perfectfit
+**lec 10**
+## Topics
+* Cross validation (k-fold)
